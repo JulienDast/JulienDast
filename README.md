@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Bienvenue sur mon profil GitHub !<br>👉 Mon portfolio : https://juliendast.vercel.app/<br>🔭 Je développe actuellement Sportner, une application permettant de réunir tous les amoureux de sport !<br>👯 Actuellement à la recherche de nouveaux projets<br>🌱 Découvrant les fonctionnalités avancées de React.js<br>💬 Contactez-moi : julien.dast44@gmail.com<br>
+🤝 Bienvenue sur mon profil GitHub !<br>👉 Mon portfolio : https://juliendast.vercel.app/<br>🔭 Je développe actuellement une solution pour mon association de sport, afin de pouvoir publier des articles et autres informations liées à l'actualité du club !<br>👯 Actuellement à la recherche de nouveaux projets<br>🌱 Approfondissant mes connaissances sur Node.js<br>💬 Contactez-moi : julien.dast44@gmail.com<br>
 
 
 ## 🌐 Socials:
