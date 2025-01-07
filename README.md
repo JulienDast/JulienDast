@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Bienvenue sur mon profil GitHub !<br>🔭 Je développe actuellement une solution (MERN Stack) pour mon association de sport, afin de pouvoir publier des articles et autres informations liées à l'actualité du club !<br>👯 Actuellement à la recherche de nouveaux projets<br>🌱 Approfondissant mes connaissances sur Node.js<br>💬 Contactez-moi : julien.dast44@gmail.com<br>
+🤝 Bienvenue sur mon profil GitHub !<br>🔭 Je développe actuellement une solution (NEST/REACT/MySQL) pour mon association de sport, afin de pouvoir publier des articles et autres informations liées à l'actualité du club !<br>👯 Actuellement à la recherche de nouveaux projets<br>🌱 Approfondissant mes connaissances sur Node.js<br>💬 Contactez-moi : julien.dast44@gmail.com<br>
 
 
 ## 🌐 Socials:
